@@ -1,0 +1,5 @@
+{
+  "name": "CalAI",
+  "description": "Premium AI-powered calorie tracking with glassmorphism design.",
+  "requestFramePermissions": ["camera"]
+}
